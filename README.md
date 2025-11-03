@@ -3,7 +3,8 @@
 Portfólio profissional desenvolvido com **React + Vite + Styled-Components**, com foco em acessibilidade, performance e componentização.  
 Seções: Sobre, Projetos, Habilidades e Contato.
 
-> Deploy: _    _
+> Deploy: Deploy: https://portfolio-pearl-eta-96.vercel.app/
+
 
 ---
 
